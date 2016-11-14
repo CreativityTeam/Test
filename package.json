@@ -4,7 +4,7 @@
   "description": "nhat",
   "main": "app.js",
   "scripts": {
-    "test": "nhat"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",

@@ -1,0 +1,14 @@
+{
+  "name": "nhat",
+  "version": "1.0.0",
+  "description": "nhat",
+  "main": "app.js",
+  "scripts": {
+    "test": "nhat"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
